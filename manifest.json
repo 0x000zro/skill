@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "b64c3e1e8b995320c87ed52be4c348a919863448",
+  "last_updated": "bdd2f572cda22370732d0a156e730d4f0a53af6a",
   "study_modes": [
     {
       "id": "study_cdp_growth_and_development",
@@ -10,7 +10,7 @@
     },
     {
       "id": "study_ch01_growth_and_development",
-      "title": "Ch01 Growth And Development",
+      "title": "अध्याय 1: वृद्धि एवं विकास की संकल्पना",
       "path": "study/ch01_growth_and_development.md",
       "category": "Child Development"
     },
