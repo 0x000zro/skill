@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "9968f6c0b5d640af2cbc6370f1f77f490d4e8fb9",
+  "last_updated": "7928cfbf1ac81e678a67eafac3c79c8a00d41d88",
   "study_modes": [
     {
       "id": "study_cdp_growth_and_development",
@@ -37,8 +37,8 @@
       "id": "mock_01",
       "title": "CTET CDP Mock Test 1",
       "path": "test/mocktest1.json",
-      "duration_minutes": 15,
-      "total_questions": 5
+      "duration_minutes": 30,
+      "total_questions": 30
     }
   ]
 }
