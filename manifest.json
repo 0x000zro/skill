@@ -1,0 +1,877 @@
+{
+  "version": 2,
+  "last_updated": "2026-10-06T17:05:00Z",
+  "total_chapters": 27,
+  "study_modes": [
+    {
+      "id": "study_ch01",
+      "chapter": 1,
+      "title": "वृद्धि एवं विकास की संकल्पना",
+      "subtitle": "Growth & Development",
+      "path": "study/ch01_growth_and_development.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "study_ch02",
+      "chapter": 2,
+      "title": "विकास की अवस्थाएं एवं विकासात्मक कार्य",
+      "subtitle": "Stages of Development",
+      "path": "study/ch02_stages_of_development.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "study_ch03",
+      "chapter": 3,
+      "title": "वंशानुक्रम एवं वातावरण की अंतःक्रिया",
+      "subtitle": "Heredity & Environment",
+      "path": "study/ch03_heredity_and_environment.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "study_ch04",
+      "chapter": 4,
+      "title": "सामाजीकरण की प्रक्रियाएं एवं पालन-पोषण",
+      "subtitle": "Socialization & Parenting",
+      "path": "study/ch04_socialization_processes.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "study_ch05",
+      "chapter": 5,
+      "title": "संज्ञानात्मक विकास: पियाजे, वाइगोत्स्की, ब्रूनर",
+      "subtitle": "Cognitive Theories",
+      "path": "study/ch05_cognitive_theories_piaget_vygotsky_bruner.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "study_ch06",
+      "chapter": 6,
+      "title": "नैतिक विकास के सिद्धांत: कोहलबर्ग, गिलिगन",
+      "subtitle": "Moral Development Theories",
+      "path": "study/ch06_moral_development_theories.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "study_ch07",
+      "chapter": 7,
+      "title": "मनोसामाजिक एवं मनोविश्लेषणात्मक सिद्धांत",
+      "subtitle": "Erikson & Freud Theories",
+      "path": "study/ch07_psychosocial_and_psychoanalytic_theories.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "study_ch08",
+      "chapter": 8,
+      "title": "भाषा और विचार (चॉम्स्की, स्किनर, पियाजे)",
+      "subtitle": "Language & Thought",
+      "path": "study/ch08_language_and_thought.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "study_ch09",
+      "chapter": 9,
+      "title": "संज्ञान, संवेग एवं अभिप्रेरणा",
+      "subtitle": "Cognition, Emotion & Motivation",
+      "path": "study/ch09_cognition_emotion_motivation.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "study_ch10",
+      "chapter": 10,
+      "title": "व्यक्तित्व: अवधारणा, सिद्धांत एवं मापन",
+      "subtitle": "Personality Theories & Testing",
+      "path": "study/ch10_personality_theories_and_assessment.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "study_ch11",
+      "chapter": 11,
+      "title": "बुद्धि: अवधारणा, सिद्धांत एवं परीक्षण",
+      "subtitle": "Intelligence & IQ Testing",
+      "path": "study/ch11_intelligence_theories_and_testing.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "study_ch12",
+      "chapter": 12,
+      "title": "वैयक्तिक भिन्नताएं एवं जेंडर मुद्दे",
+      "subtitle": "Individual Differences & Gender",
+      "path": "study/ch12_individual_differences_and_gender.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "study_ch13",
+      "chapter": 13,
+      "title": "चिंतन, समस्या-समाधान एवं सृजनात्मकता",
+      "subtitle": "Thinking, Problem Solving & Creativity",
+      "path": "study/ch13_thinking_problem_solving_creativity.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "study_ch14",
+      "chapter": 14,
+      "title": "अधिगम: अवधारणा, वक्र, पठार एवं स्थानांतरण",
+      "subtitle": "Learning Concepts & Transfer",
+      "path": "study/ch14_learning_concepts_curves_transfer.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "study_ch15",
+      "chapter": 15,
+      "title": "अधिगम के प्रमुख सिद्धांत (थॉर्नडाइक, पावलॉव, स्किनर)",
+      "subtitle": "Learning Theories",
+      "path": "study/ch15_learning_theories.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "study_ch16",
+      "chapter": 16,
+      "title": "शिक्षण विधियां, 5E मॉडल एवं सूक्ष्म शिक्षण",
+      "subtitle": "Teaching Methods & Pedagogy",
+      "path": "study/ch16_teaching_methods_models_skills.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "study_ch17",
+      "chapter": 17,
+      "title": "समावेशी शिक्षा का दर्शन एवं UDL",
+      "subtitle": "Inclusive Education & UDL",
+      "path": "study/ch17_inclusive_education_framework.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "study_ch18",
+      "chapter": 18,
+      "title": "अधिगम अक्षमताएं एवं न्यूरोडायवर्सिटी",
+      "subtitle": "Learning Disabilities & ADHD/ASD",
+      "path": "study/ch18_learning_disabilities_adhd_asd.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "study_ch19",
+      "chapter": 19,
+      "title": "RPwD Act 2016 एवं विशिष्ट बालक",
+      "subtitle": "RPwD Act & Special Children",
+      "path": "study/ch19_rpwd_act_2016_and_special_children.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "study_ch20",
+      "chapter": 20,
+      "title": "निर्देशन, परामर्श एवं उ.प्र. शैक्षिक संस्थाएं",
+      "subtitle": "Guidance & Counseling (UP Special)",
+      "path": "study/ch20_guidance_counseling_up_institutions.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "study_ch21",
+      "chapter": 21,
+      "title": "मापन, आकलन, CCE एवं समग्र प्रगति पत्रक",
+      "subtitle": "Assessment, CCE & HPC",
+      "path": "study/ch21_measurement_assessment_evaluation_cce.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "study_ch22",
+      "chapter": 22,
+      "title": "उत्तम परीक्षण निर्माण एवं क्रियात्मक अनुसंधान",
+      "subtitle": "Test Construction & Action Research",
+      "path": "study/ch22_test_construction_and_action_research.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "study_ch23",
+      "chapter": 23,
+      "title": "NEP 2020, NIPUN Bharat एवं NCF 2005/2023",
+      "subtitle": "NEP 2020 & Curriculum Frameworks",
+      "path": "study/ch23_nep_2020_ncf_fln.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "study_ch24",
+      "chapter": 24,
+      "title": "RTE Act 2009, POCSO एवं बाल अधिकार",
+      "subtitle": "RTE Act 2009 & Child Rights",
+      "path": "study/ch24_rte_act_2009_pocso_child_rights.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "study_ch25",
+      "chapter": 25,
+      "title": "भारतीय शिक्षा का ऐतिहासिक विकास",
+      "subtitle": "History of Indian Education",
+      "path": "study/ch25_history_of_indian_education.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    },
+    {
+      "id": "study_ch26",
+      "chapter": 26,
+      "title": "प्रमुख दार्शनिक विचारधाराएं एवं विचारक",
+      "subtitle": "Philosophies & Educational Thinkers",
+      "path": "study/ch26_philosophies_and_educational_thinkers.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    },
+    {
+      "id": "study_ch27",
+      "chapter": 27,
+      "title": "प्रारंभिक शिक्षा की योजनाएं एवं संस्थाएं",
+      "subtitle": "Schemes & Institutions (SSA, MDM, SCERT)",
+      "path": "study/ch27_educational_schemes_and_institutions.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    }
+  ],
+  "revision_modes": [
+    {
+      "id": "rev_ch01",
+      "chapter": 1,
+      "title": "वृद्धि एवं विकास (Quick Bullets)",
+      "path": "revision/ch01_growth_and_development.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "rev_ch02",
+      "chapter": 2,
+      "title": "विकास की अवस्थाएं (Quick Bullets)",
+      "path": "revision/ch02_stages_of_development.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "rev_ch03",
+      "chapter": 3,
+      "title": "वंशानुक्रम एवं वातावरण (Quick Bullets)",
+      "path": "revision/ch03_heredity_and_environment.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "rev_ch04",
+      "chapter": 4,
+      "title": "सामाजीकरण एवं पालन-पोषण (Quick Bullets)",
+      "path": "revision/ch04_socialization_processes.md",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण"
+    },
+    {
+      "id": "rev_ch05",
+      "chapter": 5,
+      "title": "पियाजे, वाइगोत्स्की, ब्रूनर सिद्धांत (Quick Bullets)",
+      "path": "revision/ch05_cognitive_theories_piaget_vygotsky_bruner.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "rev_ch06",
+      "chapter": 6,
+      "title": "नैतिक विकास सिद्धांत (Quick Bullets)",
+      "path": "revision/ch06_moral_development_theories.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "rev_ch07",
+      "chapter": 7,
+      "title": "एरिक्सन एवं फ्रायड (Quick Bullets)",
+      "path": "revision/ch07_psychosocial_and_psychoanalytic_theories.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "rev_ch08",
+      "chapter": 8,
+      "title": "भाषा और विचार (Quick Bullets)",
+      "path": "revision/ch08_language_and_thought.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "rev_ch09",
+      "chapter": 9,
+      "title": "संज्ञान, संवेग एवं अभिप्रेरणा (Quick Bullets)",
+      "path": "revision/ch09_cognition_emotion_motivation.md",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा"
+    },
+    {
+      "id": "rev_ch10",
+      "chapter": 10,
+      "title": "व्यक्तित्व एवं मापन विधियां (Quick Bullets)",
+      "path": "revision/ch10_personality_theories_and_assessment.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "rev_ch11",
+      "chapter": 11,
+      "title": "बुद्धि सिद्धांत एवं परीक्षण (Quick Bullets)",
+      "path": "revision/ch11_intelligence_theories_and_testing.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "rev_ch12",
+      "chapter": 12,
+      "title": "वैयक्तिक भिन्नताएं व जेंडर (Quick Bullets)",
+      "path": "revision/ch12_individual_differences_and_gender.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "rev_ch13",
+      "chapter": 13,
+      "title": "चिंतन एवं सृजनात्मकता (Quick Bullets)",
+      "path": "revision/ch13_thinking_problem_solving_creativity.md",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन"
+    },
+    {
+      "id": "rev_ch14",
+      "chapter": 14,
+      "title": "अधिगम वक्र, पठार व अंतरण (Quick Bullets)",
+      "path": "revision/ch14_learning_concepts_curves_transfer.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "rev_ch15",
+      "chapter": 15,
+      "title": "अधिगम के प्रमुख सिद्धांत (Quick Bullets)",
+      "path": "revision/ch15_learning_theories.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "rev_ch16",
+      "chapter": 16,
+      "title": "शिक्षण विधियां व 5E मॉडल (Quick Bullets)",
+      "path": "revision/ch16_teaching_methods_models_skills.md",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र"
+    },
+    {
+      "id": "rev_ch17",
+      "chapter": 17,
+      "title": "समावेषी शिक्षा व UDL (Quick Bullets)",
+      "path": "revision/ch17_inclusive_education_framework.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "rev_ch18",
+      "chapter": 18,
+      "title": "अधिगम विकार (Dyslexia आदि) (Quick Bullets)",
+      "path": "revision/ch18_learning_disabilities_adhd_asd.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "rev_ch19",
+      "chapter": 19,
+      "title": "RPwD Act 2016 व विशिष्ट बालक (Quick Bullets)",
+      "path": "revision/ch19_rpwd_act_2016_and_special_children.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "rev_ch20",
+      "chapter": 20,
+      "title": "निर्देशन, परामर्श व DIET (Quick Bullets)",
+      "path": "revision/ch20_guidance_counseling_up_institutions.md",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं"
+    },
+    {
+      "id": "rev_ch21",
+      "chapter": 21,
+      "title": "मापन, CCE एवं HPC (Quick Bullets)",
+      "path": "revision/ch21_measurement_assessment_evaluation_cce.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "rev_ch22",
+      "chapter": 22,
+      "title": "ब्लूप्रिंट व क्रियात्मक अनुसंधान (Quick Bullets)",
+      "path": "revision/ch22_test_construction_and_action_research.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "rev_ch23",
+      "chapter": 23,
+      "title": "NEP 2020 व NCF (Quick Bullets)",
+      "path": "revision/ch23_nep_2020_ncf_fln.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "rev_ch24",
+      "chapter": 24,
+      "title": "RTE 2009 व PTR नियम (Quick Bullets)",
+      "path": "revision/ch24_rte_act_2009_pocso_child_rights.md",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून"
+    },
+    {
+      "id": "rev_ch25",
+      "chapter": 25,
+      "title": "भारतीय शिक्षा आयोग (Quick Bullets)",
+      "path": "revision/ch25_history_of_indian_education.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    },
+    {
+      "id": "rev_ch26",
+      "chapter": 26,
+      "title": "दार्शनिक व शैक्षिक विचारक (Quick Bullets)",
+      "path": "revision/ch26_philosophies_and_educational_thinkers.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    },
+    {
+      "id": "rev_ch27",
+      "chapter": 27,
+      "title": "प्रारंभिक शिक्षा योजनाएं SSA/MDM (Quick Bullets)",
+      "path": "revision/ch27_educational_schemes_and_institutions.md",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं"
+    }
+  ],
+  "practice_modes": [
+    {
+      "id": "practice_ch01",
+      "chapter": 1,
+      "title": "अभ्यास: वृद्धि एवं विकास",
+      "path": "practice/ch01_growth_and_development.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch02",
+      "chapter": 2,
+      "title": "अभ्यास: विकास की अवस्थाएं",
+      "path": "practice/ch02_stages_of_development.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch03",
+      "chapter": 3,
+      "title": "अभ्यास: वंशानुक्रम एवं वातावरण",
+      "path": "practice/ch03_heredity_and_environment.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch04",
+      "chapter": 4,
+      "title": "अभ्यास: सामाजीकरण की प्रक्रियाएं",
+      "path": "practice/ch04_socialization_processes.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch05",
+      "chapter": 5,
+      "title": "अभ्यास: पियाजे, वाइगोत्स्की, ब्रूनर",
+      "path": "practice/ch05_cognitive_theories_piaget_vygotsky_bruner.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch06",
+      "chapter": 6,
+      "title": "अभ्यास: नैतिक विकास सिद्धांत",
+      "path": "practice/ch06_moral_development_theories.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch07",
+      "chapter": 7,
+      "title": "अभ्यास: एरिक्सन एवं फ्रायड",
+      "path": "practice/ch07_psychosocial_and_psychoanalytic_theories.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch08",
+      "chapter": 8,
+      "title": "अभ्यास: भाषा और विचार",
+      "path": "practice/ch08_language_and_thought.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch09",
+      "chapter": 9,
+      "title": "अभ्यास: संज्ञान, संवेग एवं अभिप्रेरणा",
+      "path": "practice/ch09_cognition_emotion_motivation.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch10",
+      "chapter": 10,
+      "title": "अभ्यास: व्यक्तित्व एवं परीक्षण",
+      "path": "practice/ch10_personality_theories_and_assessment.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch11",
+      "chapter": 11,
+      "title": "अभ्यास: बुद्धि एवं IQ परीक्षण",
+      "path": "practice/ch11_intelligence_theories_and_testing.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch12",
+      "chapter": 12,
+      "title": "अभ्यास: वैयक्तिक भिन्नताएं व जेंडर",
+      "path": "practice/ch12_individual_differences_and_gender.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch13",
+      "chapter": 13,
+      "title": "अभ्यास: चिंतन एवं सृजनात्मकता",
+      "path": "practice/ch13_thinking_problem_solving_creativity.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch14",
+      "chapter": 14,
+      "title": "अभ्यास: अधिगम की अवधारणा व वक्र",
+      "path": "practice/ch14_learning_concepts_curves_transfer.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch15",
+      "chapter": 15,
+      "title": "अभ्यास: अधिगम के प्रमुख सिद्धांत",
+      "path": "practice/ch15_learning_theories.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch16",
+      "chapter": 16,
+      "title": "अभ्यास: शिक्षण विधियां व 5E मॉडल",
+      "path": "practice/ch16_teaching_methods_models_skills.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch17",
+      "chapter": 17,
+      "title": "अभ्यास: समावेशी शिक्षा एवं UDL",
+      "path": "practice/ch17_inclusive_education_framework.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch18",
+      "chapter": 18,
+      "title": "अभ्यास: अधिगम अक्षमताएं (ADHD/ASD)",
+      "path": "practice/ch18_learning_disabilities_adhd_asd.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch19",
+      "chapter": 19,
+      "title": "अभ्यास: RPwD Act 2016 व विशिष्ट बालक",
+      "path": "practice/ch19_rpwd_act_2016_and_special_children.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch20",
+      "chapter": 20,
+      "title": "अभ्यास: निर्देशन एवं उ.प्र. संस्थाएं",
+      "path": "practice/ch20_guidance_counseling_up_institutions.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch21",
+      "chapter": 21,
+      "title": "अभ्यास: मापन, आकलन एवं CCE",
+      "path": "practice/ch21_measurement_assessment_evaluation_cce.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch22",
+      "chapter": 22,
+      "title": "अभ्यास: ब्लूप्रिंट व क्रियात्मक अनुसंधान",
+      "path": "practice/ch22_test_construction_and_action_research.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch23",
+      "chapter": 23,
+      "title": "अभ्यास: NEP 2020 एवं NCF",
+      "path": "practice/ch23_nep_2020_ncf_fln.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch24",
+      "chapter": 24,
+      "title": "अभ्यास: RTE Act 2009 एवं बाल अधिकार",
+      "path": "practice/ch24_rte_act_2009_pocso_child_rights.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch25",
+      "chapter": 25,
+      "title": "अभ्यास: भारतीय शिक्षा का ऐतिहासिक विकास",
+      "path": "practice/ch25_history_of_indian_education.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch26",
+      "chapter": 26,
+      "title": "अभ्यास: दार्शनिक विचारधाराएं व विचारक",
+      "path": "practice/ch26_philosophies_and_educational_thinkers.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "total_questions": 30
+    },
+    {
+      "id": "practice_ch27",
+      "chapter": 27,
+      "title": "अभ्यास: प्रारंभिक शिक्षा योजनाएं (SSA/MDM)",
+      "path": "practice/ch27_educational_schemes_and_institutions.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "total_questions": 30
+    }
+  ],
+  "test_modes": [
+    {
+      "id": "test_ch01",
+      "chapter": 1,
+      "title": "टेस्ट: वृद्धि एवं विकास",
+      "path": "test/ch01_growth_and_development.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch02",
+      "chapter": 2,
+      "title": "टेस्ट: विकास की अवस्थाएं",
+      "path": "test/ch02_stages_of_development.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch03",
+      "chapter": 3,
+      "title": "टेस्ट: वंशानुक्रम एवं वातावरण",
+      "path": "test/ch03_heredity_and_environment.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch04",
+      "chapter": 4,
+      "title": "टेस्ट: सामाजीकरण की प्रक्रियाएं",
+      "path": "test/ch04_socialization_processes.json",
+      "category": "Unit 1: बाल विकास एवं सामाजीकरण",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch05",
+      "chapter": 5,
+      "title": "टेस्ट: पियाजे, वाइगोत्स्की, ब्रूनर",
+      "path": "test/ch05_cognitive_theories_piaget_vygotsky_bruner.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch06",
+      "chapter": 6,
+      "title": "टेस्ट: नैतिक विकास सिद्धांत",
+      "path": "test/ch06_moral_development_theories.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch07",
+      "chapter": 7,
+      "title": "टेस्ट: एरिक्सन एवं फ्रायड",
+      "path": "test/ch07_psychosocial_and_psyanalytic_theories.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch08",
+      "chapter": 8,
+      "title": "टेस्ट: भाषा और विचार",
+      "path": "test/ch08_language_and_thought.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch09",
+      "chapter": 9,
+      "title": "टेस्ट: संज्ञान, संवेग एवं अभिप्रेरणा",
+      "path": "test/ch09_cognition_emotion_motivation.json",
+      "category": "Unit 2: प्रमुख सिद्धांत, संज्ञान एवं भाषा",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch10",
+      "chapter": 10,
+      "title": "टेस्ट: व्यक्तित्व एवं परीक्षण",
+      "path": "test/ch10_personality_theories_and_assessment.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch11",
+      "chapter": 11,
+      "title": "टेस्ट: बुद्धि एवं IQ परीक्षण",
+      "path": "test/ch11_intelligence_theories_and_testing.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch12",
+      "chapter": 12,
+      "title": "टेस्ट: वैयक्तिक भिन्नताएं व जेंडर",
+      "path": "test/ch12_individual_differences_and_gender.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch13",
+      "chapter": 13,
+      "title": "टेस्ट: चिंतन एवं सृजनात्मकता",
+      "path": "test/ch13_thinking_problem_solving_creativity.json",
+      "category": "Unit 3: व्यक्तित्व, बुद्धि एवं चिंतन",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch14",
+      "chapter": 14,
+      "title": "टेस्ट: अधिगम की अवधारणा व वक्र",
+      "path": "test/ch14_learning_concepts_curves_transfer.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch15",
+      "chapter": 15,
+      "title": "टेस्ट: अधिगम के प्रमुख सिद्धांत",
+      "path": "test/ch15_learning_theories.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch16",
+      "chapter": 16,
+      "title": "टेस्ट: शिक्षण विधियां व 5E मॉडल",
+      "path": "test/ch16_teaching_methods_models_skills.json",
+      "category": "Unit 4: अधिगम एवं शिक्षण शास्त्र",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch17",
+      "chapter": 17,
+      "title": "टेस्ट: समावेशी शिक्षा एवं UDL",
+      "path": "test/ch17_inclusive_education_framework.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch18",
+      "chapter": 18,
+      "title": "टेस्ट: अधिगम अक्षमताएं (ADHD/ASD)",
+      "path": "test/ch18_learning_disabilities_adhd_asd.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch19",
+      "chapter": 19,
+      "title": "टेस्ट: RPwD Act 2016 व विशिष्ट बालक",
+      "path": "test/ch19_rpwd_act_2016_and_special_children.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch20",
+      "chapter": 20,
+      "title": "टेस्ट: निर्देशन एवं उ.प्र. संस्थाएं",
+      "path": "test/ch20_guidance_counseling_up_institutions.json",
+      "category": "Unit 5: समावेशी शिक्षा एवं विशिष्ट आवश्यकताएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch21",
+      "chapter": 21,
+      "title": "टेस्ट: मापन, आकलन एवं CCE",
+      "path": "test/ch21_measurement_assessment_evaluation_cce.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch22",
+      "chapter": 22,
+      "title": "टेस्ट: ब्लूप्रिंट व क्रियात्मक अनुसंधान",
+      "path": "test/ch22_test_construction_and_action_research.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch23",
+      "chapter": 23,
+      "title": "टेस्ट: NEP 2020 एवं NCF",
+      "path": "test/ch23_nep_2020_ncf_fln.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch24",
+      "chapter": 24,
+      "title": "टेस्ट: RTE Act 2009 एवं बाल अधिकार",
+      "path": "test/ch24_rte_act_2009_pocso_child_rights.json",
+      "category": "Unit 6: शैक्षिक मूल्यांकन, नीतियां एवं कानून",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch25",
+      "chapter": 25,
+      "title": "टेस्ट: भारतीय शिक्षा का ऐतिहासिक विकास",
+      "path": "test/ch25_history_of_indian_education.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch26",
+      "chapter": 26,
+      "title": "टेस्ट: दार्शनिक विचारधाराएं व विचारक",
+      "path": "test/ch26_philosophies_and_educational_thinkers.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
+    {
+      "id": "test_ch27",
+      "chapter": 27,
+      "title": "टेस्ट: प्रारंभिक शिक्षा योजनाएं (SSA/MDM)",
+      "path": "test/ch27_educational_schemes_and_institutions.json",
+      "category": "Unit 7: ऐतिहासिक पृष्ठभूमि एवं योजनाएं",
+      "duration_minutes": 30,
+      "total_questions": 30
+    }
+  ]
+}

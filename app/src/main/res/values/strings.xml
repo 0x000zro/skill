@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CDP Learning Hub</string>
+    <string name="tab_study">Study</string>
+    <string name="tab_revision">Revision</string>
+    <string name="tab_practice">Practice</string>
+    <string name="tab_test">Mock Test</string>
+</resources>
