@@ -1,26 +1,3 @@
----
-id: study_ch01
-chapter: 1
-title: "वृद्धि एवं विकास की संकल्पना"
-title_raw: "वृद्धि एवं विकास की संकल्पना"
-subtitle: "Growth & Development"
-category: "Unit 1: बाल विकास एवं सामाजीकरण"
-category_raw: "Unit 1: बाल विकास एवं सामाजीकरण"
-path: "study/ch01_growth_and_development.md"
-unit: "Unit 1: बाल विकास एवं सामाजीकरण"
-mode: "study"
-source: "cpd.md"
-manifest_version: 2
-generated_on: "2026-10-06"
-total_chapters: 27
-tags:
-  - CPD
-  - Hindi Medium
-  - Teacher Eligibility
-  - CTET
-  - UPTET
----
-
 # अध्याय 1: वृद्धि एवं विकास की संकल्पना
 
 > Growth & Development  
