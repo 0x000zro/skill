@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "7928cfbf1ac81e678a67eafac3c79c8a00d41d88",
+  "last_updated": "3ad7f34b254566618b101f6bd8a77df06d9cfaca",
   "study_modes": [
     {
       "id": "study_cdp_growth_and_development",
@@ -25,11 +25,11 @@
   ],
   "practice_modes": [
     {
-      "id": "cdp_quiz_01",
-      "title": "वृद्धि एवं विकास प्रैक्टिस सेट",
+      "id": "mock_01",
+      "title": "CTET CDP Mock Test 1",
       "path": "practice/cdp_growth.json",
-      "category": "Child Development",
-      "total_questions": 3
+      "category": "Child Development & Pedagogy",
+      "total_questions": 30
     }
   ],
   "test_modes": [
