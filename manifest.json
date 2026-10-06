@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "study_modes": [
+    {
+      "id": "study_cdp_growth_and_development",
+      "title": "बाल विकास एवं वृद्धि (Growth & Development)",
+      "path": "study/cdp_growth_and_development.md",
+      "category": "Child Development"
+    },
+    {
+      "id": "study_piaget_cognitive_stages",
+      "title": "जीन पियाजे: संज्ञानात्मक विकास के चरण",
+      "path": "study/piaget_cognitive_stages.md",
+      "category": "Child Development"
+    }
+  ],
+  "revision_modes": [
+    {
+      "id": "rev_cdp_growth_rev",
+      "title": "वृद्धि एवं विकास (Quick Review Bullets)",
+      "path": "revision/cdp_growth_rev.md",
+      "category": "Quick Revision"
+    }
+  ],
+  "practice_modes": [
+    {
+      "id": "cdp_quiz_01",
+      "title": "वृद्धि एवं विकास प्रैक्टिस सेट",
+      "path": "practice/cdp_growth.json",
+      "category": "Child Development",
+      "total_questions": 3
+    }
+  ],
+  "test_modes": [
+    {
+      "id": "mock_01",
+      "title": "CTET CDP Mock Test 1",
+      "path": "test/mocktest1.json",
+      "duration_minutes": 15,
+      "total_questions": 5
+    }
+  ]
+}
