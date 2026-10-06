@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "3768e4dfd6a610fe27d668f52b6644194158ee62",
+  "last_updated": "b64c3e1e8b995320c87ed52be4c348a919863448",
   "study_modes": [
     {
       "id": "study_cdp_growth_and_development",
@@ -357,6 +357,13 @@
     }
   ],
   "test_modes": [
+    {
+      "id": "test_ch01",
+      "title": "टेस्ट: वृद्धि एवं विकास",
+      "path": "test/ch01_growth_and_development.json",
+      "duration_minutes": 30,
+      "total_questions": 30
+    },
     {
       "id": "mock_01",
       "title": "CTET CDP Mock Test 1",
